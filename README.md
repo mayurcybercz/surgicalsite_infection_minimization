@@ -18,3 +18,6 @@ sepsis_rf is the random forest model with half of dataset size
 sepsis_smote_fs is random forest model with smote class balancing and feature selection
 
 data_baseline.pickle contains the clean train,val,test data
+
+#publication link
+https://scholarworks.csun.edu/handle/10211.3/224642
